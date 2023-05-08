@@ -1,0 +1,6 @@
+{
+   "expenses":[ { "id": 1, "desc": "Electricity Bill", "cost": 1000 },
+    { "id": 2, "desc": "Gas Bill", "cost": 900 },
+    { "id": 3, "desc": "Groceries", "cost": 5000 }
+    ]
+} 

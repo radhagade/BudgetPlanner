@@ -1,0 +1,39 @@
+{
+  "expenditure": [
+    {
+      "id": 1,
+      "desc": "Elecrticity Bill",
+      "cost": 1000,
+      "expenseType": "Needs",
+      "expenseDate": "2023-05-05T17:27:06.684445+05:30"
+    },
+    {
+      "id": 2,
+      "desc": "Shopping",
+      "cost": 2000,
+      "expenseType": "Wants",
+      "expenseDate": "2023-05-05T17:27:06.6845299+05:30"
+    },
+    {
+      "id": 3,
+      "desc": "LIC payment",
+      "cost": 800,
+      "expenseType": "Savings",
+      "expenseDate": "2023-05-05T17:27:06.6845304+05:30"
+    },
+    {
+      "id": 5,
+      "desc": "Movie",
+      "cost": 1000,
+      "expenseType": "Wants",
+      "expenseDate": "2023-05-05T17:27:06.6845305+05:30"
+    },
+    {
+      "id": 6,
+      "desc": "Petrol",
+      "cost": 500,
+      "expenseType": "Needs",
+      "expenseDate": "2023-05-05T17:27:06.6845305+05:30"
+    }
+  ]
+}
